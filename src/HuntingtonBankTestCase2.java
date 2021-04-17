@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class HuntingtonBankTestCase2 {
 
-
+//Test case#2: Verify that the Huntington logo in Header is working properly
     public static void main(String[] args) {
 
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Milad\\IdeaProjects\\SeleniumChromium\\Drivers\\chromedriver.exe");

@@ -4,7 +4,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class HuntingtonBankTestCase1 {
 
+    //Test case#1: A negative login test case for Huntingtonbank.com
     public static void main(String[] args) {
+
 
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Milad\\IdeaProjects\\SeleniumChromium\\Drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();

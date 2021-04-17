@@ -6,6 +6,7 @@ public class HuntingtonBankTestCase3 {
 
     public static void main(String[] args) throws InterruptedException {
 
+//Test case#3: Verify that “Ask Us” button is working properly
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Milad\\IdeaProjects\\SeleniumChromium\\Drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
