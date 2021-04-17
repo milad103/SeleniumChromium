@@ -1,0 +1,42 @@
+Test case#1: A negative login test case for Huntingtonbank.com
+
+Navigate to huntingtonbank.com
+- Click on “Log into Online Banking”
+- Enter a wrong/random username in the “Username” field
+- Enter a wrong password/random in the “Password” field
+- Click “Log in” button,Expected results: You will be redirected to another
+ URL (https://onlinebanking.huntington.com/rol/Auth/login.aspx?error=0x132120c8),
+ where a pop-up message says that "The username or password is incorrect."
+
+================================================================================
+
+Test case#2: Verify that the Huntington logo in Header is working properly
+
+- Navigate to huntingtonbank.com (Expected result: Huntington.com Homepage
+ will load successfully).
+- Click on the Huntington logo on Homepage in left top corner of the
+ Header (expected result: you will be redirected to the homepage of Huntington.com.
+- Successful Test Case, the logo is working properly.
+
+================================================================================
+
+Test case#3: Verify that “Ask Us” button is working properly
+
+- Navigate to huntingtonbank.com (Expected result: Huntington.com Homepage
+ will load successfully).
+- Click “Ask Us” button on Homepage in
+ right bottom corner of the Homepage (expected result: a pop-up chat window will
+ appear with an automatic message from the Virtual Assistant.
+- Test case is successful: once you click “Ask Us” button,
+ the virtual assistant starts chatting with you.
+
+===============================================================================
+
+Test case#4: Check that if select the drop down(under title: Community Involvement)
+ by down arrow key then all items are getting listed in alphabetic order
+
+- Navigate to huntingtonbank.com (Expected result: Huntington.com Homepage
+ will load successfully).
+- Under title: “Community Involvement” in the bottom of the body click the down arrow 
+to see if all items are being listed alphabetically. 
+
