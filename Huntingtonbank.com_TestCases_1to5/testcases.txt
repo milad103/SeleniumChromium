@@ -40,3 +40,15 @@ Test case#4: Check that if select the drop down(under title: Community Involveme
 - Under title: “Community Involvement” in the bottom of the body click the down arrow 
 to see if all items are being listed alphabetically. 
 
+======================================================================
+
+Testcase#5: find, click and open YouTube Homepage for Huntingtonbank.com
+
+- Navigate to huntingtonbank.com (Expected result: Huntington.com Homepage will
+ load successfully).
+- Click on the Huntington logo on Homepage in left top corner of
+ the Header (expected result: you will be redirected to the homepage of Huntington.com.
+- Locate the YouTube icon in the footer and click on it and make
+ sure it opens in a new Youtube.com tab.
+- Successful Test Case: Everything is working as it should.
+

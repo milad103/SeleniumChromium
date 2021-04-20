@@ -15,5 +15,7 @@ public class HuntingtonBankTestCase4 {
         driver.get("https://huntingtonbank.com");
 
         driver.findElement(By.xpath("//select[@name='selectedId']")).click();
+
+
     }
 }
